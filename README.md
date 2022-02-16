@@ -10,7 +10,8 @@
  <br>
  :hearts: Gamer and Art & Design lover
  <br>
- :pinched_fingers: Italian based in Sweden
+ <img src="https://github.com/buildkite/emojis/blob/main/img-apple-64/1f90c.png" width="20" height="20" alt="hand">  Italian based in Sweden
+
 
 **My GitHub Content**
 
