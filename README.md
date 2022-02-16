@@ -6,7 +6,7 @@
 
  :open_book: Currently learning React.js and PHP
  <br>
- :desktop_computer: Very interested in Service minded products
+ :desktop_computer: Very interested in service oriented products
  <br>
  :hearts: Gamer and Art & Design lover
  <br>
