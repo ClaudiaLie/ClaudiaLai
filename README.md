@@ -1,10 +1,10 @@
 ![back](https://user-images.githubusercontent.com/71669941/154282058-ac487d53-d167-4f04-a6ff-871df3104fab.jpg)
-<p align="center"> I am a Full Stack Developer who recently graduated with Code Institute's Software Development Diploma.</p>
+<p align="center"> I am a Full Stack Developer who graduated with Code Institute's Software Development Diploma.</p>
 
 **About Me** 
 <br>
 
- :open_book: Currently learning React.js and PHP
+ :open_book: Constantly learning
  <br>
  :desktop_computer: Very interested in service oriented products
  <br>
